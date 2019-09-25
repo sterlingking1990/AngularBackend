@@ -59,9 +59,12 @@ typings/
 
 # next.js build output
 .next
+<<<<<<< HEAD
 
 # IDE files
 .idea
 
 # Test backend
 backend
+=======
+>>>>>>> 56ac46be1527f814c5045f6509f0234cb1abd49c
